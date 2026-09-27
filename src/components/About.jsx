@@ -7,7 +7,7 @@ import PaletteIcon from '@mui/icons-material/Palette';
 import { Button } from '@mui/material';
 import AirIcon from '@mui/icons-material/Air';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
-import web from '../assets/fullStack.jpg'
+import web from '../assets/fullstack.jpg'
 import ai from '../assets/ai.jpg'
 import art from '../assets/art.jpg'
 
